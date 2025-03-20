@@ -26,4 +26,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white) 
 
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mateopinilladavila">
+			<img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Mpinillad97">
+		<img src="https://img.icons8.com/?size=100&id=td499GRWwrWC&format=png&color=000000"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/Mpinillad97">
+				<img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" ></a>
+      </div>
+
+</p>
