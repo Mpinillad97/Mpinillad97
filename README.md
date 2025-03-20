@@ -14,11 +14,11 @@
 
 ## A passionate Full Stack developer from Colombia 🇨🇴
 
-- 🔭 I’m currently working on a platform that connects users with home service providers
-- 🌱 I’m currently learning Docker, AWS and advanced system architecture
-- 💬 Ask me about NestJS, PostgreSQL, Docker, or anything related to backend development
+- 🔭 I’m currently working on a platform that connects users with home service providers.
+- 🌱 I’m currently learning Docker, AWS and advanced system architecture.
+- 💬 Ask me about NestJS, PostgreSQL, Docker, or anything related to backend development.
 - ⚡ Favorite quote: "Sic Parvis Magna", which means "Greatness from small beginnings."
-- 📫 How to reach me **mpinillad97@gmail.com**
+- 📫 How to reach me **mpinillad97@gmail.com**.
 
 
 # 💻 Tech Stack:
