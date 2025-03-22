@@ -16,7 +16,8 @@
 
 - 🔭 I’m currently working on a platform that connects users with home service providers.
 - 🌱 I’m currently learning Docker, AWS and advanced system architecture.
-- 💬 Ask me about NestJS, PostgreSQL, Docker, or anything related to backend development.
+- 💻 I specialize in backend with NestJS, TypeScript, and PostgreSQL, but I also work with frontend technologies like React, HTML, CSS, and Bootstrap.
+- 💬 Ask me about NestJS, PostgreSQL, Docker, full-stack development, APIs, or anything tech-related!
 - ⚡ Favorite quote: "Sic Parvis Magna", which means "Greatness from small beginnings."
 - 📫 How to reach me **mpinillad97@gmail.com**.
 
