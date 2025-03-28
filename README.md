@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mateo+Pinilla!;" />
 </h1>
 
-## A passionate Full Stack developer from Colombia 🇨🇴
+## A passionate Full Stack developer from Medellin, Colombia 🇨🇴
 
 - 🔭 I’m currently working on a platform that connects users with home service providers.
 - 🌱 I’m currently learning Docker, AWS and advanced system architecture.
