@@ -14,12 +14,12 @@
 
 ## A passionate Full Stack developer from Medellin, Colombia 🇨🇴
 
-- 🔭 I’m currently working on a platform that connects users with home service providers.
-- 🌱 I’m currently learning Docker, AWS and advanced system architecture.
-- 💻 I'm a full stack developer that specializes in backend with NodeJS, NestJS, TypeScript, and PostgreSQL, but I also work with frontend technologies like React, HTML, CSS, and Bootstrap.
-- 💬 Ask me about NestJS, PostgreSQL, Docker, full-stack development, APIs, or anything tech-related!
-- ⚡ Favorite quote: "Sic Parvis Magna", which means "Greatness from small beginnings."
-- 📫 How to reach me **mpinillad97@gmail.com**.
+🔭 I'm currently building a platform that connects users with trusted home service providers.
+🌱 Continuously learning — diving deeper into Docker, AWS, and advanced system architecture.
+💻 Full Stack Developer with a strong focus on backend technologies like Node.js, NestJS, TypeScript, and PostgreSQL — also experienced in frontend with React, HTML, CSS, and Bootstrap.
+💬 Let’s talk about NestJS, PostgreSQL, Docker, full-stack architecture, APIs, or anything tech-related!
+⚡ Favorite quote: "Sic Parvis Magna" — "Greatness from small beginnings."
+📫 Reach me at mpinillad97@gmail.com.
 
 
 # 💻 Tech Stack:
